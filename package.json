@@ -18,6 +18,8 @@
   "homepage": "https://github.com/jlitsas/meadowtest#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "express3-handlebars": "^0.5.2"
-  }
+    "express3-handlebars": "^0.5.2",
+    "meadowlark": "^1.0.0"
+  },
+  "devDependencies": {}
 }
